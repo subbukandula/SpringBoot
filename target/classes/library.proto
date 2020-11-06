@@ -1,0 +1,6 @@
+package com.springboot.sample;
+message Book {      
+      required string title = 1;
+      required string description = 2;
+      
+}
